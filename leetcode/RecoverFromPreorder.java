@@ -2,7 +2,7 @@
  * Created by Doodle on 9/26/17.
  */
 
-import Tree.TreeNode;
+import leetcode.Tree.TreeNode;
 
 public class RecoverFromPreorder {
     public TreeNode recover(int[] arr) {

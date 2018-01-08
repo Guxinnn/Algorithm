@@ -1,4 +1,4 @@
-package LinkedList;
+package leetcode.LinkedList;
 
 /**
  * Created by Doodle on 9/11/17.

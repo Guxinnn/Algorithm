@@ -1,4 +1,4 @@
-import Tree.TreeNode;
+package leetcode.Tree;
 
 public class RecoverBST {
     private int pIndex = 0;

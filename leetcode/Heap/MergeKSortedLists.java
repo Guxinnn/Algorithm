@@ -1,5 +1,5 @@
 package Heap;
-import LinkedList.ListNode;
+import leetcode.LinkedList.*;
 import java.util.PriorityQueue;
 import java.util.Comparator;
 /**

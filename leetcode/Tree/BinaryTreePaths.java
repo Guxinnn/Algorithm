@@ -1,4 +1,4 @@
-package Tree;
+package leetcode.Tree;
 import java.util.*;
 /**
  * Created by Doodle on 9/15/17.

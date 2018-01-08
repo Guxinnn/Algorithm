@@ -1,4 +1,4 @@
-package Tree;
+package leetcode.Tree;
 import java.util.*;
 public class BinaryTreeVerticalOrderTraversal {
     public List<List<Integer>> verticalOrder(TreeNode root) {
