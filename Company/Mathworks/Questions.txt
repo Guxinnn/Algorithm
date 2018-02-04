@@ -1,0 +1,11 @@
+Java
+
+Coding:
+- validate parenthesis
+- extend virtual function, override method
+
+关于finalize
+a. 必须是protected. T
+b. 程序出了object的scope，finalize就会被调用  F
+c. call finalize的时候GC会马上回收 F
+d. 

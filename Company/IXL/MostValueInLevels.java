@@ -20,7 +20,7 @@ public class MostValueInLevels {
             int size = q.size();
             set.clear();
 
-            for (int i = 0; i < q.size(); i++) {
+            for (int i = 0; i < size; i++) {
                 TreeStringNode node = q.poll();
                 set.add(node.s);
                 if (node.left != null) q.offer(node.left);
